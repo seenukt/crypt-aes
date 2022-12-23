@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android-SDK-Starter</string>
+    <string name="click_to_check_internet">Click to check Internet</string>
+    <string name="encrypt_data">Encrypt Data</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="plaint_text">plaint text</string>
+    <string name="decrypt_data">DeCrypt Data</string>
+</resources>

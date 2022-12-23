@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-SDK-Starter.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-SDK-Starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-SDK-Starter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-SDK-Starter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-SDK-Starter.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-SDK-Starter.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-SDK-Starter.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-SDK-Starter.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-SDK-Starter.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-SDK-Starter.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk-starter/Android-SDK-Starter.sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk-starter/Android-SDK-Starter.sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk/Android-SDK-Starter.sdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk/Android-SDK-Starter.sdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk/Android-SDK-Starter.sdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk/Android-SDK-Starter.sdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk/Android-SDK-Starter.sdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk/Android-SDK-Starter.sdk.unitTest.iml" />
+    </modules>
+  </component>
+</project>
